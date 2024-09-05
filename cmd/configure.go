@@ -27,7 +27,7 @@ import (
 )
 
 const (
-	pastureVer = "v1.1.4" // x-release-please-version
+	pastureVer = "v0.7.1" // x-release-please-version
 )
 
 var (
